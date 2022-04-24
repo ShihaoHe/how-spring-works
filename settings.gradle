@@ -8,4 +8,6 @@
  */
 
 rootProject.name = 'how-spring-works'
-include('app')
+include('spring-framework')
+include 'spring-webmvc'
+
